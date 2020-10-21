@@ -1,17 +1,6 @@
 ![](/github/logohappy.png)
-=========
 
-Table of contents
-=================
-
-<!--ts-->
-   * [Projeto](#projeto)
-   * [Tecnologias](#tecnologias)
-   * [Layout](#layout)
-   * [Execuçã Do Projeto](#execucao-do-projeto)
-   * [Contribuição](#contribuicao)
-<!--te-->
-
+#Indice
 
 ## Projeto :open_file_folder:
 
